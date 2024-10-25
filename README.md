@@ -1,5 +1,6 @@
 # Objective : 
 To Create a predictive model to classify whether a person is running or walking based on the given predictor variables.
+Dataset : We are using reduced dataset from original Walk or Run dataset. Total 88588 records are available.
 
 # Dataset : 
 We are using reduced dataset from original Walk or Run dataset. Total 88588 records are available.
